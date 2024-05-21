@@ -1,0 +1,7 @@
+{
+  "name": "fmManageDev",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
