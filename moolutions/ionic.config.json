@@ -1,0 +1,7 @@
+{
+  "name": "moolutions",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
